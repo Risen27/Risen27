@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risen27&label=Profile%20views&color=0e75b6&style=flat" alt="risen27" /> </p>
 
-- 🔭 I’m currently working on **a self project which is a Football Management Software for future Comercialization**
+- 🔭 I’m currently working on **a self project which is a Football Management Software in PHP/HTML+CSS/JAVASCRIPT/PYTHON for future Comercialization**
 
 - 🌱 I’m currently learning **Python, Java, and other languages which are apart of my masters degree**
 
